@@ -1,0 +1,4 @@
+# llm_engineering was a clone of an external course repo, absorbed as plain
+# files (see LLM-Engineer/llm_engineering/.gitignore). Keep it out of
+# language stats / diff stats — it isn't representative of this account's code.
+LLM-Engineer/llm_engineering/** linguist-vendored
