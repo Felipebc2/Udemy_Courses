@@ -222,3 +222,5 @@ week8/*.pth
 community-contributions/
 week*/community-contributions/
 week*/community_contributions/
+
+uv.lock
